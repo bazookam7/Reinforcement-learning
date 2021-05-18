@@ -1,0 +1,2 @@
+To train pacman run python3 pacmanClass.py and to use pacman transferred from snake uncomment line 21 in dqn_pacman.py and comment line 20.
+To train snake run python3 snakeClass.py and to use snake transferred from pacman uncomment line 21 in DQN.py and comment line 20.
